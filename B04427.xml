@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mournfull shepherdesse of Arcadiah. Or, The solitary sollitudes of the matchlesse shepherdesse: whose earthly joy did shine with luster bright, but now's eclips'd, and turn'd to dismall night; The tune is, Tell me you wandring spirits, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04427</idno>
+            <idno type="STC">Wing M2989A</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[21]</idno>
+            <idno type="EEBO-CITATION">99887546</idno>
+            <idno type="PROQUEST">ocm99887546</idno>
+            <idno type="VID">182279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182279)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mournfull shepherdesse of Arcadiah. Or, The solitary sollitudes of the matchlesse shepherdesse: whose earthly joy did shine with luster bright, but now's eclips'd, and turn'd to dismall night; The tune is, Tell me you wandring spirits, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fran. Grove on Snow-hill.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Verse: "Assist me muses with your power divine ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182279:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>The mournfull Shepherdeſſe of Arcadiah. OR, The ſolitary ſollitudes of the matchleſſe Shepherdeſſe:</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>Whoſe earthly joy did ſhine with luſter bright,</hi>
+                  </l>
+                  <l>
+                     <hi>But now's eclips'd and turn'd to diſmall night;</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>The Tune is, Tell me you wandring Spirits, &amp;c.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ASſiſt me Muſes with your power divine,</l>
+               <l>to portract out the ſable plaints of mine,</l>
+               <l>
+                  <hi>Melpominy</hi> direct my warbling quill,</l>
+               <l>Deſcending down from high <hi>Pernaſſus</hi> hill</l>
+               <l>
+                  <hi>And ſing in queers a heavenly harmony</hi>
+               </l>
+               <l>
+                  <hi>Whilſt I, whilſt I for want of Clora fain would die.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I was a Shepherdeſſe of beauty, bright and fair</l>
+               <l>Indu'd with graces, honours paſſing rare,</l>
+               <l>And as the <hi>Phenix</hi> is more excellent,</l>
+               <l>Then all the birds under the firmament,</l>
+               <l>
+                  <hi>So was I counted, though I live forlorn</hi>
+               </l>
+               <l>
+                  <hi>My joyes, my joyes are all tranſpos'd which makes me mourn</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I flouriſh'd like the lovely Mary-gold,</l>
+               <l>Or damaske Roſes beauteous to behold,</l>
+               <l>Whilſt luſtrous <hi>Phoebus</hi> with his ſplendor bright,</l>
+               <l>Did ſpread our bloſſomes with his glorious light,</l>
+               <l>
+                  <hi>Such operations had the powerfull ſun,</hi>
+               </l>
+               <l>
+                  <hi>But now, but now it is diſſol'd, my joyes are done.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The rurall Swaines that were our friendly Mates</l>
+               <l>That knew our bliſſe, our joyes, and happy ſtates,</l>
+               <l>Vnfainedly in hearts they did rejoyce,</l>
+               <l>To hear my <hi>Clora's</hi> ſwéet melodious voice,</l>
+               <l>
+                  <hi>His oaten reed did ſound with pleaſant glee,</hi>
+               </l>
+               <l>
+                  <hi>But now, but now joyes is turn'd to miſery,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With ſilver tones, his Bag-pipes chanted ſhril</l>
+               <l>(In height of glory on <hi>Pernaſſus</hi> hill,)</l>
+               <l>Whoſe harmony delighted all the Swaines,</l>
+               <l>That us'd to ſport upon the lovely plains,</l>
+               <l>
+                  <hi>With dancing Galliards, Jigges, and Roundelayes,</hi>
+               </l>
+               <l>
+                  <hi>And none, and none but Clora, Clora got the praiſe</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When ſcorthing <hi>Tytan</hi> with his burning beames,</l>
+               <l>In midſt of Summer was upon extreames;</l>
+               <l>Then to the gréen woods ſide he did convey</l>
+               <l>His pretty Lambs and Sheep to féed and play,</l>
+               <l>
+                  <hi>This was his care whilſt Clora he did keep</hi>
+               </l>
+               <l>
+                  <hi>In fields, in fields his render flock, &amp; harmeles ſheep.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <div n="2" type="part">
+               <head>The ſecond part</head>
+               <opener>to the ſame Tune</opener>
+               <lg>
+                  <l>WHen bluſtering <hi>Boreas</hi> from the North blew cold</l>
+                  <l>Then did he pen them ſafely in their Fold</l>
+                  <l>And when that Winters bitter tempeſt came</l>
+                  <l>His zealous care was to prevent the ſame,</l>
+                  <l>
+                     <hi>But Clora's gone, unto another Sphear,</hi>
+                  </l>
+                  <l>
+                     <hi>Inſtal'd, inſtal'd a Saint or bleſſed ſpirit there.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And ſince he's gone, whilſt I am left alone,</l>
+                  <l>The Rurall Swaines, with heaby ſighs and moan</l>
+                  <l>Do ſéem to call his to his place again,</l>
+                  <l>But Oh alas, their wiſhes are in vain;</l>
+                  <l>
+                     <hi>The harmeleſſe ſheep, do ſeem to mourn and pinh,</hi>
+                  </l>
+                  <l>
+                     <hi>Though he, though he, inveſted in with Saints divine</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Our pretty Lambs are ſtragling gone aſtray,</l>
+                  <l>(who wants a guide muſt ſurely looſe his way)</l>
+                  <l>The waters troubled where oun Heards did drink</l>
+                  <l>And want that vertue to expell the ſtink,</l>
+                  <l>
+                     <hi>His Crook and Scrip he left behind we ſee</hi>
+                  </l>
+                  <l>
+                     <hi>For heaven, for heaven &amp; glorious joyes more rarer be.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whiſtling Black-bird, and the Nightingale,</l>
+                  <l>Whoſe ſilver tones were ſtil'd heroical,</l>
+                  <l>The Queriſters both of the Woods and Fields,</l>
+                  <l>Whoſe harmony melodious muſick yéelds,</l>
+                  <l>
+                     <hi>They'r metamorphoriz'd into ſighs and cries,</hi>
+                  </l>
+                  <l>
+                     <hi>Beſides, beſides the Swan that ſings now mourning dies.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And I in pleaſant ſtory too have read,</l>
+                  <l>That when the Turtle Dove is gone and dead</l>
+                  <l>The Mate lives ſingle in a mournfull ſtate,</l>
+                  <l>So wil I doe till death ſtrikes out my date,</l>
+                  <l>
+                     <hi>In ſollitudes, and penſive heart excel,</hi>
+                  </l>
+                  <l>
+                     <hi>Then ſhall, then ſhall the world confeſſe, I lov'd him well.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Oh that my date were out, my time were néer</l>
+                  <l>That I might méet him whom I love ſo déer,</l>
+                  <l>In high <hi>Olimpus</hi> heavens celeſtial throne</l>
+                  <l>(A place prepar'd for bleſſed Saints alone.)</l>
+                  <l>
+                     <hi>The world is ſin, and naughty beſide,</hi>
+                  </l>
+                  <l>
+                     <hi>O that, O that my death had been when Clora died.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <signed>A. S.</signed>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London printed for Fran Grove on Snow-hill.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
